@@ -6,8 +6,9 @@ Which Honeypot(s) you deployed
 dionaea, wordpot, cowrie, and conpot
 
 Any issues you encountered  
-I was not able to upload a payload onto my wordpot VM using metasploit due  
+1. I was not able to upload a payload onto my wordpot VM using metasploit due  
 "exploit failed: The following options failed to validate: USERNAME, PASSWORD"  
+2. Exporting the session.json failed and gave an empty file. I had to export it as another name.
   
 A summary of the data collected: number of attacks, number of malware samples, etc.  
   
