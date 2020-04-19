@@ -11,6 +11,7 @@ Any issues you encountered
 2. Exporting the session.json failed and gave an empty file. I had to export it as another name.
   
 A summary of the data collected: number of attacks, number of malware samples, etc.  
+![https://github.com/slee1717/Project-10-11-Honeypot/blob/master/8.PNG?raw=true]
   
 Any unresolved questions raised by the data collected  
 1. Why was I unable to upload the metasploit payload?
